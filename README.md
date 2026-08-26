@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">🖥️ IT Support Labs</h1>
 <h3 align="center">Hands-on Labs & Technical Troubleshooting</h3>
 
@@ -166,7 +167,7 @@ Identity & Access Management
 AWS & Cloud
      ↓
 Cloud Security
-```
+```s
 
 ---
 
@@ -175,3 +176,6 @@ Cloud Security
 All completed labs include detailed documentation, screenshots, troubleshooting steps, and technical findings.
 
 Each project is continuously updated as I develop new skills and complete additional hands-on scenarios.
+=======
+# IT-Support-Labs
+>>>>>>> 8ddc218600d431cde78e7440512d0e609dfca01f
