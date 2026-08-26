@@ -175,4 +175,3 @@ Cloud Security
 All completed labs include detailed documentation, screenshots, troubleshooting steps, and technical findings.
 
 Each project is continuously updated as I develop new skills and complete additional hands-on scenarios.
-
