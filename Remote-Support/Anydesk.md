@@ -36,27 +36,23 @@ In this lab, I practiced remote support using AnyDesk between macOS, Windows, an
 
 ### Windows — System Information
 
-![Windows System](./screenshots/02-windows-system-info.png)
+![Windows System](./screenshots/03-windows-system-info.png)
 
 ### Remote Session
 
-![Remote Session](./screenshots/03-remote-session.png)
+![Remote Session](./screenshots/02-remote-session.png)
 
 ---
 
 ## 📱 Mobile Support
 
-### iPhone — AnyDesk
+<div align="center">
 
-![iPhone AnyDesk](./screenshots/04-phone-anydesk.png)
+<img src="./screenshots/04-phone-anydesk.png" alt="iPhone AnyDesk" width="200"/>
+<img src="./screenshots/05-phone-remote-session.png" alt="Phone Remote Session" width="200"/>
+<img src="./screenshots/06-phone-connected.png" alt="Connected Session" width="200"/>
 
-### Remote Session
-
-![Phone Remote Session](./screenshots/05-phone-remote-session.png)
-
-### Connected Session
-
-![Connected Session](./screenshots/06-phone-connected.png)
+</div>
 
 ---
 
