@@ -34,7 +34,7 @@ Each lab focuses on:
 | **01** | **🪟 Windows Troubleshooting**  | Diagnosing common Windows issues involving performance, applications, user accounts, permissions, services, and system configuration.       | [⏳ Planning](#)     |
 | **02** | **🌐 Network Troubleshooting**  | Troubleshooting connectivity issues using TCP/IP, DNS, DHCP, ping, tracert, nslookup, and other diagnostic tools.                           | [⏳ Planning](#)     |
 | **03** | **🖥️ Remote Support** | Providing remote technical assistance, diagnosing user issues, and documenting support sessions using remote support tools such as AnyDesk. | [📂 View](./Remote-Support/) |
-| **04** | **🎫 Help Desk & Ticketing**    | Practicing incident management, service requests, prioritization, SLA concepts, escalation, and technical documentation.                    | [⏳ Planning](#)     |
+| **04** | **🎫 Help Desk & Ticketing** | Practicing incident management, service requests, prioritization, SLA concepts, escalation, and technical documentation using Jira Server Management. | [📂 View](./Ticketing/) |
 | **05** | **⚙️ PowerShell IT Automation** | Using PowerShell to gather system information, manage services, troubleshoot systems, and automate common administrative tasks.             | [⏳ Planning](#)     |
 | **06** | **👤 Active Directory**         | Practicing user and group management, password resets, account lockouts, permissions, and basic Group Policy administration.                | [⏳ Planning](#)     |
 | **07** | **☁️ Microsoft 365 & Entra ID** | Exploring user management, MFA, permissions, identity management, and basic cloud administration concepts.                                  | [⏳ Planning](#)     |
