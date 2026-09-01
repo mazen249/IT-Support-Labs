@@ -42,13 +42,6 @@ The user account was unlocked from the account management options.
 
 ![Unlock Account](./screenshots/04-unlock-account.png)
 
----
-
-## 5. Review User Properties
-
-The user's properties were opened to review and manage account settings.
-
-![User Properties](./screenshots/05-user-properties.png)
 
 ---
 
@@ -59,7 +52,7 @@ The user's properties were opened to review and manage account settings.
 - User account management
 - Password reset
 - Account unlocking
-- Reviewing user properties
+
 
 ## 🎯 What I Learned
 
