@@ -29,7 +29,7 @@ Created a new Microsoft Entra ID user account named `Messi`.
 
 The account was configured with a username, display name, password, and enabled account status.
 
-![Create Microsoft Entra ID User](../screenshots/01-create-user.png)
+![Create Microsoft Entra ID User](../Active-Directory/screenshots/01-create-user.png)
 
 ### Why it matters
 
@@ -43,7 +43,7 @@ Created a Security Group named `IT-Group`.
 
 The group uses **Assigned** membership and is intended for organizing IT users.
 
-![Create Security Group](../screenshots/02-create-group.png)
+![Create Security Group](../Active-Directory/screenshots/02-create-group.png)
 
 ### Why it matters
 
@@ -57,7 +57,7 @@ Added users to the `IT-Group`, including `Messi`.
 
 The group membership screen shows the selected users and enterprise applications.
 
-![Group Members](../screenshots/03-group-members.png)
+![Group Members](../Active-Directory/screenshots/03-group-members.png)
 
 ### Why it matters
 
@@ -71,7 +71,7 @@ Reviewed the available administrative roles and selected the built-in **User Adm
 
 The role allows management of users and groups, including actions such as resetting passwords for users.
 
-![User Administrator Role](../screenshots/04-user-administrator-role.png)
+![User Administrator Role](../Active-Directory/screenshots/04-user-administrator-role.png)
 
 ### Why it matters
 
@@ -97,7 +97,7 @@ The environment shows several authentication methods, including:
 
 Microsoft Authenticator is enabled for all users in the displayed policy.
 
-![Authentication Methods](../screenshots/05-authentication-methods.png)
+![Authentication Methods](../Active-Directory/screenshots/05-authentication-methods.png)
 
 ### Why it matters
 
