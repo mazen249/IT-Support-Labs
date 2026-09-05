@@ -15,7 +15,7 @@ The objective was to investigate the issue, identify the likely cause, communica
 **Priority:** Medium  
 **Request Type:** Report a system problem
 
-![Jira Support Ticket](./screenshots/07-jira-ticket.png)
+![Jira Support Ticket](./screenshotes/07-jira-ticket.png)
 
 The user reported that applications were taking a long time to open and that switching between programs was delayed.
 
@@ -27,7 +27,7 @@ The user reported that applications were taking a long time to open and that swi
 
 Windows Update showed two failed updates, including a .NET Framework Security Update and a Windows Security Update.
 
-![Windows Update](./screenshots/01-windows-update.png)
+![Windows Update](./screenshotes/01-windows-update.jpg)
 
 This indicated that Windows update activity could be a possible contributor to the reported performance issue.
 
@@ -37,7 +37,7 @@ This indicated that Windows update activity could be a possible contributor to t
 
 Task Manager was used to review CPU, memory, and disk usage and identify processes consuming system resources.
 
-![Task Manager Processes](./screenshots/02-task-manager-processes.png)
+![Task Manager Processes](./screenshotes/02-task-manager-processes.jpg)
 
 `Windows Modules Installer Worker` was one of the processes consuming noticeable CPU and memory resources during the investigation.
 
@@ -47,7 +47,7 @@ Task Manager was used to review CPU, memory, and disk usage and identify process
 
 CPU performance was reviewed using Task Manager.
 
-![CPU Performance](./screenshots/03-cpu-performance.png)
+![CPU Performance](./screenshotes/03-cpu-performance.jpg)
 
 CPU utilization was approximately 17% at the time of the check, indicating that the CPU was not under heavy load at that moment.
 
@@ -57,7 +57,7 @@ CPU utilization was approximately 17% at the time of the check, indicating that 
 
 Memory utilization was reviewed to determine whether insufficient RAM could be contributing to the slowdown.
 
-![Memory Performance](./screenshots/04-memory-performance.png)
+![Memory Performance](./screenshotes/04-memory-performance.jpg)
 
 Memory usage was approximately 62% (9.6 / 15.6 GB), indicating moderate memory utilization.
 
@@ -67,7 +67,7 @@ Memory usage was approximately 62% (9.6 / 15.6 GB), indicating moderate memory u
 
 Disk activity was reviewed using Task Manager.
 
-![Disk Performance](./screenshots/05-disk-performance.png)
+![Disk Performance](./screenshotes/05-disk-performance.jpg)
 
 Disk utilization was approximately 10%, indicating that the disk was not under heavy load at the time of the investigation.
 
@@ -77,7 +77,7 @@ Disk utilization was approximately 10%, indicating that the disk was not under h
 
 Startup applications were reviewed to determine whether unnecessary applications were launching automatically.
 
-![Startup Apps](./screenshots/06-startup-apps.png)
+![Startup Apps](./screenshotes/06-startup-apps.jpg)
 
 Most applications were disabled, with only a small number enabled.
 
@@ -104,7 +104,7 @@ The findings were communicated to the user through Jira Service Management.
 
 The user was advised to install the pending Windows updates and restart the computer. The user was also asked to report back if the performance issue continued.
 
-![Jira Troubleshooting Update](./screenshots/08-jira-troubleshooting-update.png)
+![Jira Troubleshooting Update](./screenshotes/08-jira-troubleshooting-update.png)
 
 ---
 
