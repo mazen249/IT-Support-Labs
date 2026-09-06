@@ -57,7 +57,7 @@ CPU utilization was approximately 17% at the time of the check, indicating that 
 
 Memory utilization was reviewed to determine whether insufficient RAM could be contributing to the slowdown.
 
-![Memory Performance](./screenshotes/04-memory-performance.jpg)
+![Memory Performance](./screenshotes/04-memory-performance..jpg)
 
 Memory usage was approximately 62% (9.6 / 15.6 GB), indicating moderate memory utilization.
 
