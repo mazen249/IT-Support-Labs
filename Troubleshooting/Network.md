@@ -18,7 +18,7 @@ First, I verified the current Wi-Fi connection through Windows Network Connectio
 - Connection Speed: 72.2 Mbps
 - Signal Quality: Good
 
-![Wi-Fi Status](./screenshotes/01-wifi-status.jpg)
+![Wi-Fi Status](./screenshotes/01-wifi-connection-status.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ Lost = 0 (0% loss)
 
 The computer was able to communicate successfully with the local gateway.
 
-![Gateway Ping](./screenshotes/04-gateway-ping.jpg)
+![Gateway Ping](./screenshotes/04-default-gateway-ping.jpg)
 
 ---
 
@@ -153,7 +153,7 @@ Average = 159ms
 
 The gateway test showed **20% packet loss and high latency**, indicating a possible local or Wi-Fi connectivity issue.
 
-![Packet Loss Test](./screenshotes/06-packet-loss.jpg)
+![Packet Loss Test](./screenshotes/06-packet-loss-latency-test.jpg)
 
 ---
 
@@ -175,7 +175,7 @@ Request timed out.
 
 A timeout on an individual hop does not necessarily mean that the Internet connection is failing, as some network devices may not respond to traceroute requests.
 
-![Traceroute](./screenshotes/07-traceroute.jpg)
+![Traceroute](./screenshotes/07-network-traceroute.jpg)
 
 ---
 
@@ -195,7 +195,7 @@ No operation can be performed ... while it has its media disconnected.
 
 These messages were related to adapters that were not currently connected.
 
-![DHCP Renew](./screenshotes/08-dhcp-renew.jpg)
+![DHCP Renew](./screenshotes/08-dhcp-renewal.jpg)
 
 ---
 
@@ -209,7 +209,7 @@ Network Reset can remove and reinstall network adapters and restore network comp
 
 The reset was **not performed** during this lab.
 
-![Network Reset](./screenshotes/09-network-reset.jpg)
+![Network Reset](./screenshotes/09-windows-network-reset.jpg)
 
 ---
 
